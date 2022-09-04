@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/ellipse_1.xml" value="0.1905" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/ellipse_2.xml" value="0.1295" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/ellipse_3.xml" value="0.1905" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/ellipse_4.xml" value="0.1295" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/image2.xml" value="0.1905" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/rectangle_1.xml" value="0.1905" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/rectangle_2.xml" value="0.1295" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/unsplash_sz.xml" value="0.1905" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/drawable/vector_1.xml" value="0.1295" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/layout/activity_create_account.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/layout/activity_get_started.xml" value="0.22" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/a/Desktop/Odev2FMSS-master/app/src/main/res/layout/activity_welcome_back.xml" value="0.1675929884566054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

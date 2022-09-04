@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Odev2FMSS</string>
+    <string name="l_g_s">
+
+Let\'s GetStarted
+</string>
+    <string name="grow_togeth">
+
+Grow Together
+</string>
+    <string name="button">
+
+JOIN NOW
+    </string>
+    <string name="welcome_bac">
+
+Welcome Back!
+</string>
+    <string name="enter_your_">
+
+Enter Your Username &amp; Password
+</string>
+    <string name="username">
+
+Username
+</string>
+    <string name="password">
+
+Password
+</string>
+    <string name="login">
+
+LOGIN
+</string>
+    <string name="forgotten_p">
+
+Forgotten Passwoard?
+</string>
+
+    <string name="or_create_a">
+
+Or Create a New Account
+</string>
+    <string name="create_acco">
+
+Create Account :)
+</string>
+    <string name="create_user">
+
+Create Username
+</string>
+    <string name="enter_email">
+
+Enter Email Id
+</string>
+    <string name="create_pass">
+
+Create Password
+</string>
+    <string name="sign_up">
+
+Sign Up
+</string>
+
+
+</resources>
